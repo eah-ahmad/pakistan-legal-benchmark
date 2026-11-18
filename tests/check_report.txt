@@ -1,0 +1,276 @@
+PAKISTANI LEGAL QA TEST CHECK REPORT (EXTENDED SCHEMA & AUDIT)
+=================================================================
+
+SUMMARY OF CHECKS:
+- Duplicate question flags: 60
+- Retrieval leakage & warning flags (retrieval_test.json): 30 / 30
+- MCQ and Free-Text validation issues: 80
+- Out-of-scope high retrieval overlap flags: 15 / 18
+
+DUPLICATE QUESTIONS:
+- [mcq_final.json] mq017 DUPLICATES [mcq_test.json] mq017: Which article of the Constitution of Pakistan deals with "Oath of Office"?
+- [mcq_final.json] mq016 DUPLICATES [mcq_test.json] mq016: Which article of the Constitution of Pakistan deals with "Equality of citizens"?
+- [mcq_final.json] mq018 DUPLICATES [mcq_test.json] mq018: Which article of the Constitution of Pakistan deals with "Votes on account"?
+- [mcq_final.json] mq013 DUPLICATES [mcq_test.json] mq013: Which article of the Constitution of Pakistan deals with "Appellate jurisdiction of the Supreme Court"?
+- [mcq_final.json] mq010 DUPLICATES [mcq_test.json] mq010: Which article of the Constitution of Pakistan deals with "Federal Ministers and Ministers of State"?
+- [mcq_final.json] mq019 DUPLICATES [mcq_test.json] mq019: Which article of the Constitution of Pakistan deals with "National Assembly"?
+- [mcq_final.json] mq015 DUPLICATES [mcq_test.json] mq015: Which article of the Constitution of Pakistan deals with "Power to acquire property and to make contracts, etc"?
+- [mcq_final.json] mq005 DUPLICATES [mcq_test.json] mq005: What is the subject (heading) of Article 63A of the Constitution of Pakistan?
+- [mcq_final.json] mq001 DUPLICATES [mcq_test.json] mq001: What is the subject (heading) of Article 212 of the Constitution of Pakistan?
+- [mcq_final.json] mq009 DUPLICATES [mcq_test.json] mq009: What is the subject (heading) of Article 91 of the Constitution of Pakistan?
+- [mcq_final.json] mq004 DUPLICATES [mcq_test.json] mq004: What is the subject (heading) of Article 211 of the Constitution of Pakistan?
+- [mcq_final.json] mq003 DUPLICATES [mcq_test.json] mq003: What is the subject (heading) of Article 132 of the Constitution of Pakistan?
+- [mcq_final.json] mq006 DUPLICATES [mcq_test.json] mq006: What is the subject (heading) of Article 189 of the Constitution of Pakistan?
+- [mcq_final.json] mq057 DUPLICATES [mcq_test.json] mq057: Which section of the PECA 2016 deals with "Unauthorized access to critical infrastructure information system or data"?
+- [mcq_final.json] mq056 DUPLICATES [mcq_test.json] mq056: Which section of the PECA 2016 deals with "Interference with information system or data"?
+- [mcq_final.json] mq050 DUPLICATES [mcq_test.json] mq050: Which section of the PECA 2016 deals with "Use of information system for kidnapping, abduction or trafficking of minor"?
+- [mcq_final.json] mq054 DUPLICATES [mcq_test.json] mq054: Which section of the PECA 2016 deals with "Investigation agency"?
+- [mcq_final.json] mq059 DUPLICATES [mcq_test.json] mq059: Which section of the PECA 2016 deals with "Power of the Federal Government to Issue directives"?
+- [mcq_final.json] mq058 DUPLICATES [mcq_test.json] mq058: Which section of the PECA 2016 deals with "Composition of the Authority"?
+- [mcq_final.json] mq051 DUPLICATES [mcq_test.json] mq051: Which section of the PECA 2016 deals with "Savings of powers"?
+- [mcq_final.json] mq055 DUPLICATES [mcq_test.json] mq055: Which section of the PECA 2016 deals with "Cyber stalking"?
+- [mcq_final.json] mq048 DUPLICATES [mcq_test.json] mq048: What is the subject (heading) of Section 2H of the PECA 2016?
+- [mcq_final.json] mq047 DUPLICATES [mcq_test.json] mq047: What is the subject (heading) of Section 49 of the PECA 2016?
+- [mcq_final.json] mq049 DUPLICATES [mcq_test.json] mq049: What is the subject (heading) of Section 26 of the PECA 2016?
+- [mcq_final.json] mq045 DUPLICATES [mcq_test.json] mq045: What is the subject (heading) of Section 2C of the PECA 2016?
+- [mcq_final.json] mq042 DUPLICATES [mcq_test.json] mq042: What is the subject (heading) of Section 28 of the PECA 2016?
+- [mcq_final.json] mq043 DUPLICATES [mcq_test.json] mq043: What is the subject (heading) of Section 2N of the PECA 2016?
+- [mcq_final.json] mq034 DUPLICATES [mcq_test.json] mq034: Which section of the Pakistan Penal Code deals with "Wrongful confinement for ten or more days"?
+- [mcq_final.json] mq037 DUPLICATES [mcq_test.json] mq037: Which section of the Pakistan Penal Code deals with ""Good faith""?
+- [mcq_final.json] mq031 DUPLICATES [mcq_test.json] mq031: Which section of the Pakistan Penal Code deals with ""Reason to believe""?
+- [mcq_final.json] mq030 DUPLICATES [mcq_test.json] mq030: Which section of the Pakistan Penal Code deals with "Kidnapping or abducting for extorting property, valuable security, etc"?
+- [mcq_final.json] mq036 DUPLICATES [mcq_test.json] mq036: Which section of the Pakistan Penal Code deals with "Possession of coin by person who knew it to be altered when he became possessed thereof"?
+- [mcq_final.json] mq040 DUPLICATES [mcq_test.json] mq040: Which section of the Pakistan Penal Code deals with "Using as genuine, forged or counterfeit currency-notes or bank-notes"?
+- [mcq_final.json] mq039 DUPLICATES [mcq_test.json] mq039: Which section of the Pakistan Penal Code deals with "Wearing garb or carrying token used by soldier, sailor or airman"?
+- [mcq_final.json] mq029 DUPLICATES [mcq_test.json] mq029: What is the subject (heading) of Section 124A of the Pakistan Penal Code?
+- [mcq_final.json] mq028 DUPLICATES [mcq_test.json] mq028: What is the subject (heading) of Section 366A of the Pakistan Penal Code?
+- [mcq_final.json] mq025 DUPLICATES [mcq_test.json] mq025: What is the subject (heading) of Section 337X of the Pakistan Penal Code?
+- [mcq_final.json] mq021 DUPLICATES [mcq_test.json] mq021: What is the subject (heading) of Section 337T of the Pakistan Penal Code?
+- [mcq_final.json] mq027 DUPLICATES [mcq_test.json] mq027: What is the subject (heading) of Section 240 of the Pakistan Penal Code?
+- [mcq_final.json] mq022 DUPLICATES [mcq_test.json] mq022: What is the subject (heading) of Section 338E of the Pakistan Penal Code?
+- [mcq_dev.json] mq011 DUPLICATES [mcq_test.json] mq011: Which article of the Constitution of Pakistan deals with "Prime Minister continuing in office"?
+- [mcq_dev.json] mq012 DUPLICATES [mcq_test.json] mq012: Which article of the Constitution of Pakistan deals with "Provincial taxes in respect of professions, etc. Miscellaneous Financial Provisions"?
+- [mcq_dev.json] mq020 DUPLICATES [mcq_test.json] mq020: Which article of the Constitution of Pakistan deals with "Extent of executive authority of Federation"?
+- [mcq_dev.json] mq014 DUPLICATES [mcq_test.json] mq014: Which article of the Constitution of Pakistan deals with "Full faith and credit for public acts, etc"?
+- [mcq_dev.json] mq002 DUPLICATES [mcq_test.json] mq002: What is the subject (heading) of Article 215 of the Constitution of Pakistan?
+- [mcq_dev.json] mq007 DUPLICATES [mcq_test.json] mq007: What is the subject (heading) of Article 192 of the Constitution of Pakistan?
+- [mcq_dev.json] mq008 DUPLICATES [mcq_test.json] mq008: What is the subject (heading) of Article 17 of the Constitution of Pakistan?
+- [mcq_dev.json] mq060 DUPLICATES [mcq_test.json] mq060: Which section of the PECA 2016 deals with "Malicious code"?
+- [mcq_dev.json] mq052 DUPLICATES [mcq_test.json] mq052: Which section of the PECA 2016 deals with "Unlawful or offensive online content"?
+- [mcq_dev.json] mq053 DUPLICATES [mcq_test.json] mq053: Which section of the PECA 2016 deals with "Powers and functions of the Chairperson"?
+- [mcq_dev.json] mq044 DUPLICATES [mcq_test.json] mq044: What is the subject (heading) of Section 15 of the PECA 2016?
+- [mcq_dev.json] mq046 DUPLICATES [mcq_test.json] mq046: What is the subject (heading) of Section 22 of the PECA 2016?
+- [mcq_dev.json] mq041 DUPLICATES [mcq_test.json] mq041: What is the subject (heading) of Section 41 of the PECA 2016?
+- [mcq_dev.json] mq035 DUPLICATES [mcq_test.json] mq035: Which section of the Pakistan Penal Code deals with "Fraudulent use of false weight or measure"?
+- [mcq_dev.json] mq032 DUPLICATES [mcq_test.json] mq032: Which section of the Pakistan Penal Code deals with "Fraudulently or dishonestly diminishing weight or altering composition of coin"?
+- [mcq_dev.json] mq033 DUPLICATES [mcq_test.json] mq033: Which section of the Pakistan Penal Code deals with "Act done pursuant to the judgment or order of Court"?
+- [mcq_dev.json] mq038 DUPLICATES [mcq_test.json] mq038: Which section of the Pakistan Penal Code deals with "Right of private defence against the act of a person of unsound mind, etc"?
+- [mcq_dev.json] mq024 DUPLICATES [mcq_test.json] mq024: What is the subject (heading) of Section 29 of the Pakistan Penal Code?
+- [mcq_dev.json] mq026 DUPLICATES [mcq_test.json] mq026: What is the subject (heading) of Section 75 of the Pakistan Penal Code?
+- [mcq_dev.json] mq023 DUPLICATES [mcq_test.json] mq023: What is the subject (heading) of Section 122 of the Pakistan Penal Code?
+
+RETRIEVAL LEAK & WARNING FLAGS (threshold >= 0.35):
+- [retrieval_test.json] rq001: What does Pakistani law provide regarding: Review of judgements or orders by the Federal Constitutional Court?
+  reasons=heading appears in question (constitution-175G); heading overlap 1.00 (warning >= 0.35) (constitution-175G)
+- [retrieval_test.json] rq002: What does Pakistani law provide regarding: Pending proceedings to continue, etc?
+  reasons=heading appears in question (constitution-203H); heading overlap 1.00 (warning >= 0.35) (constitution-203H)
+- [retrieval_test.json] rq003: What does Pakistani law provide regarding: Safeguards as to arrest and detention?
+  reasons=heading appears in question (constitution-10); heading overlap 1.00 (warning >= 0.35) (constitution-10)
+- [retrieval_test.json] rq004: What does Pakistani law provide regarding: Power of Majlis-e-Shoora (Parliament) to impose tax on the income of certain corporations, etc?
+  reasons=heading appears in question (constitution-165A); heading overlap 1.00 (warning >= 0.35) (constitution-165A)
+- [retrieval_test.json] rq005: What does Pakistani law provide regarding: General Elections 2008?
+  reasons=heading appears in question (constitution-270BB); heading overlap 1.00 (warning >= 0.35) (constitution-270BB)
+- [retrieval_test.json] rq006: What does Pakistani law provide regarding: Loyalty to State and obedience to Constitution and law?
+  reasons=heading appears in question (constitution-5); heading overlap 1.00 (warning >= 0.35) (constitution-5)
+- [retrieval_test.json] rq007: What does Pakistani law provide regarding: Supplementary and excess grants?
+  reasons=heading appears in question (constitution-84); heading overlap 1.00 (warning >= 0.35) (constitution-84)
+- [retrieval_test.json] rq008: What does Pakistani law provide regarding: Existing rules, etc., to continue?
+  reasons=heading appears in question (constitution-241); heading overlap 1.00 (warning >= 0.35) (constitution-241)
+- [retrieval_test.json] rq009: What does Pakistani law provide regarding: Appointment of Judges to the Federal Constitutional Court, the Supreme Court, High Courts and the Federal Shariat Court?
+  reasons=heading appears in question (constitution-175A); heading overlap 1.00 (warning >= 0.35) (constitution-175A)
+- [retrieval_test.json] rq010: What does Pakistani law provide regarding: Tribal Areas?
+  reasons=heading appears in question (constitution-246); heading overlap 1.00 (warning >= 0.35) (constitution-246)
+- [retrieval_test.json] rq011: What does Pakistani law provide regarding: Mischief causing damage to the amount of fifty rupees?
+  reasons=heading appears in question (ppc-427); heading overlap 1.00 (warning >= 0.35) (ppc-427)
+- [retrieval_test.json] rq012: What does Pakistani law provide regarding: Mischief by injury to works of irrigation or by wrongfully diverting water?
+  reasons=heading appears in question (ppc-430); heading overlap 1.00 (warning >= 0.35) (ppc-430)
+- [retrieval_test.json] rq013: What does Pakistani law provide regarding: Punishment for abetment of offences defined in sections 161 and 165?
+  reasons=heading appears in question (ppc-165A); heading overlap 1.00 (warning >= 0.35) (ppc-165A)
+- [retrieval_test.json] rq014: What does Pakistani law provide regarding: Trespassing on burial places, etc?
+  reasons=heading appears in question (ppc-297); heading overlap 1.00 (warning >= 0.35) (ppc-297)
+- [retrieval_test.json] rq015: What does Pakistani law provide regarding: Commutation of sentence of imprisonment for life?
+  reasons=heading appears in question (ppc-55); heading overlap 1.00 (warning >= 0.35) (ppc-55)
+- [retrieval_test.json] rq016: What does Pakistani law provide regarding: Sale, etc., of obscene books, etc?
+  reasons=heading appears in question (ppc-292); heading overlap 1.00 (warning >= 0.35) (ppc-292)
+- [retrieval_test.json] rq017: What does Pakistani law provide regarding: Punishment for belonging to gang of thieves?
+  reasons=heading appears in question (ppc-401); heading overlap 1.00 (warning >= 0.35) (ppc-401)
+- [retrieval_test.json] rq018: What does Pakistani law provide regarding: Interference, improper use or tampering with electric meter by domestic consumer, etc?
+  reasons=heading appears in question (ppc-462J); heading overlap 1.00 (warning >= 0.35) (ppc-462J)
+- [retrieval_test.json] rq019: What does Pakistani law provide regarding: Liability of abettor when one act abetted and different act done Proviso?
+  reasons=heading appears in question (ppc-111); heading overlap 1.00 (warning >= 0.35) (ppc-111)
+- [retrieval_test.json] rq020: What does Pakistani law provide regarding: Wrongful confinement to extort property or constrain to illegal act?
+  reasons=heading appears in question (ppc-347); heading overlap 1.00 (warning >= 0.35) (ppc-347)
+- [retrieval_test.json] rq021: What does Pakistani law provide regarding: Real-time collection and recording of information?
+  reasons=heading appears in question (peca-39); heading overlap 1.00 (warning >= 0.35) (peca-39)
+- [retrieval_test.json] rq022: What does Pakistani law provide regarding: Hate speech?
+  reasons=heading appears in question (peca-11); heading overlap 1.00 (warning >= 0.35) (peca-11)
+- [retrieval_test.json] rq023: What does Pakistani law provide regarding: Definitions?
+  reasons=heading appears in question (peca-2); heading overlap 1.00 (warning >= 0.35) (peca-2)
+- [retrieval_test.json] rq024: What does Pakistani law provide regarding: Tribunals?
+  reasons=heading appears in question (peca-2V); heading overlap 1.00 (warning >= 0.35) (peca-2V)
+- [retrieval_test.json] rq025: What does Pakistani law provide regarding: Unlawful on-line content?
+  reasons=heading appears in question (peca-37); heading overlap 1.00 (warning >= 0.35) (peca-37)
+- [retrieval_test.json] rq026: What does Pakistani law provide regarding: Forensic laboratory?
+  reasons=heading appears in question (peca-40); heading overlap 1.00 (warning >= 0.35) (peca-40)
+- [retrieval_test.json] rq027: What does Pakistani law provide regarding: Handling of complaints by social media platforms?
+  reasons=heading appears in question (peca-2S); heading overlap 1.00 (warning >= 0.35) (peca-2S)
+- [retrieval_test.json] rq028: What does Pakistani law provide regarding: Powers and functions of the Authority?
+  reasons=heading appears in question (peca-2B); heading overlap 1.00 (warning >= 0.35) (peca-2B)
+- [retrieval_test.json] rq029: What does Pakistani law provide regarding: Appeal against decisions of the Tribunal?
+  reasons=heading appears in question (peca-2X); heading overlap 1.00 (warning >= 0.35) (peca-2X)
+- [retrieval_test.json] rq030: What does Pakistani law provide regarding: Jurisdiction of the Tribunal?
+  reasons=heading appears in question (peca-2W); heading overlap 1.00 (warning >= 0.35) (peca-2W)
+
+DATASET INTEGRITY & VALIDATION ISSUES:
+- [mcq_test.json] mq003 [lookup/constitution] | generic heading 'Provincial Ministers' in constitution-132
+- [mcq_test.json] mq009 [lookup/constitution] | generic heading 'The Cabinet' in constitution-91
+- [mcq_test.json] mq010 [define/constitution] | heading overlap 1.00 with constitution-92 (warning >= 0.35)
+- [mcq_test.json] mq011 [define/constitution] | heading overlap 1.00 with constitution-94 (warning >= 0.35)
+- [mcq_test.json] mq012 [define/constitution] | heading overlap 1.00 with constitution-163 (warning >= 0.35)
+- [mcq_test.json] mq013 [define/constitution] | heading overlap 1.00 with constitution-185 (warning >= 0.35)
+- [mcq_test.json] mq014 [define/constitution] | heading overlap 1.00 with constitution-150 (warning >= 0.35)
+- [mcq_test.json] mq015 [define/constitution] | heading overlap 1.00 with constitution-173 (warning >= 0.35)
+- [mcq_test.json] mq016 [define/constitution] | heading overlap 1.00 with constitution-25 (warning >= 0.35)
+- [mcq_test.json] mq017 [define/constitution] | heading overlap 1.00 with constitution-194 (warning >= 0.35)
+- [mcq_test.json] mq018 [define/constitution] | heading overlap 1.00 with constitution-125 (warning >= 0.35)
+- [mcq_test.json] mq019 [define/constitution] | heading overlap 1.00 with constitution-51 (warning >= 0.35); generic heading 'National Assembly' in constitution-51
+- [mcq_test.json] mq020 [define/constitution] | heading overlap 1.00 with constitution-97 (warning >= 0.35)
+- [mcq_test.json] mq024 [lookup/ppc] | generic heading '"Document"' in ppc-29
+- [mcq_test.json] mq029 [lookup/ppc] | generic heading 'Sedition' in ppc-124A
+- [mcq_test.json] mq030 [define/ppc] | heading overlap 1.00 with ppc-365A (warning >= 0.35)
+- [mcq_test.json] mq031 [define/ppc] | heading overlap 1.00 with ppc-26 (warning >= 0.35)
+- [mcq_test.json] mq032 [define/ppc] | heading overlap 1.00 with ppc-246 (warning >= 0.35)
+- [mcq_test.json] mq033 [define/ppc] | heading overlap 1.00 with ppc-78 (warning >= 0.35)
+- [mcq_test.json] mq034 [define/ppc] | heading overlap 1.00 with ppc-344 (warning >= 0.35)
+- [mcq_test.json] mq035 [define/ppc] | heading overlap 1.00 with ppc-265 (warning >= 0.35)
+- [mcq_test.json] mq036 [define/ppc] | heading overlap 1.00 with ppc-252 (warning >= 0.35)
+- [mcq_test.json] mq037 [define/ppc] | heading overlap 1.00 with ppc-52 (warning >= 0.35); generic heading '"Good faith"' in ppc-52
+- [mcq_test.json] mq038 [define/ppc] | heading overlap 1.00 with ppc-98 (warning >= 0.35)
+- [mcq_test.json] mq039 [define/ppc] | heading overlap 1.00 with ppc-140 (warning >= 0.35)
+- [mcq_test.json] mq040 [define/ppc] | heading overlap 1.00 with ppc-489B (warning >= 0.35)
+- [mcq_test.json] mq043 [lookup/peca] | generic heading 'Annual report' in peca-2N
+- [mcq_test.json] mq046 [lookup/peca] | generic heading 'Child pornography' in peca-22
+- [mcq_test.json] mq049 [lookup/peca] | generic heading 'Spoofing' in peca-26
+- [mcq_test.json] mq050 [define/peca] | heading overlap 1.00 with peca-22C (warning >= 0.35)
+- [mcq_test.json] mq051 [define/peca] | heading overlap 1.00 with peca-55 (warning >= 0.35)
+- [mcq_test.json] mq052 [define/peca] | heading overlap 1.00 with peca-2R (warning >= 0.35)
+- [mcq_test.json] mq053 [define/peca] | heading overlap 1.00 with peca-2G (warning >= 0.35)
+- [mcq_test.json] mq054 [define/peca] | heading overlap 1.00 with peca-29 (warning >= 0.35); generic heading 'Investigation agency' in peca-29
+- [mcq_test.json] mq055 [define/peca] | heading overlap 1.00 with peca-24 (warning >= 0.35); generic heading 'Cyber stalking' in peca-24
+- [mcq_test.json] mq056 [define/peca] | heading overlap 1.00 with peca-5 (warning >= 0.35)
+- [mcq_test.json] mq057 [define/peca] | heading overlap 1.00 with peca-6 (warning >= 0.35)
+- [mcq_test.json] mq058 [define/peca] | heading overlap 1.00 with peca-2D (warning >= 0.35)
+- [mcq_test.json] mq059 [define/peca] | heading overlap 1.00 with peca-2O (warning >= 0.35)
+- [mcq_test.json] mq060 [define/peca] | heading overlap 1.00 with peca-23 (warning >= 0.35); generic heading 'Malicious code' in peca-23
+- [mcq_final.json] mq017 [define/constitution] | heading overlap 1.00 with constitution-194 (warning >= 0.35)
+- [mcq_final.json] mq016 [define/constitution] | heading overlap 1.00 with constitution-25 (warning >= 0.35)
+- [mcq_final.json] mq018 [define/constitution] | heading overlap 1.00 with constitution-125 (warning >= 0.35)
+- [mcq_final.json] mq013 [define/constitution] | heading overlap 1.00 with constitution-185 (warning >= 0.35)
+- [mcq_final.json] mq010 [define/constitution] | heading overlap 1.00 with constitution-92 (warning >= 0.35)
+- [mcq_final.json] mq019 [define/constitution] | heading overlap 1.00 with constitution-51 (warning >= 0.35); generic heading 'National Assembly' in constitution-51
+- [mcq_final.json] mq015 [define/constitution] | heading overlap 1.00 with constitution-173 (warning >= 0.35)
+- [mcq_final.json] mq009 [lookup/constitution] | generic heading 'The Cabinet' in constitution-91
+- [mcq_final.json] mq003 [lookup/constitution] | generic heading 'Provincial Ministers' in constitution-132
+- [mcq_final.json] mq057 [define/peca] | heading overlap 1.00 with peca-6 (warning >= 0.35)
+- [mcq_final.json] mq056 [define/peca] | heading overlap 1.00 with peca-5 (warning >= 0.35)
+- [mcq_final.json] mq050 [define/peca] | heading overlap 1.00 with peca-22C (warning >= 0.35)
+- [mcq_final.json] mq054 [define/peca] | heading overlap 1.00 with peca-29 (warning >= 0.35); generic heading 'Investigation agency' in peca-29
+- [mcq_final.json] mq059 [define/peca] | heading overlap 1.00 with peca-2O (warning >= 0.35)
+- [mcq_final.json] mq058 [define/peca] | heading overlap 1.00 with peca-2D (warning >= 0.35)
+- [mcq_final.json] mq051 [define/peca] | heading overlap 1.00 with peca-55 (warning >= 0.35)
+- [mcq_final.json] mq055 [define/peca] | heading overlap 1.00 with peca-24 (warning >= 0.35); generic heading 'Cyber stalking' in peca-24
+- [mcq_final.json] mq049 [lookup/peca] | generic heading 'Spoofing' in peca-26
+- [mcq_final.json] mq043 [lookup/peca] | generic heading 'Annual report' in peca-2N
+- [mcq_final.json] mq034 [define/ppc] | heading overlap 1.00 with ppc-344 (warning >= 0.35)
+- [mcq_final.json] mq037 [define/ppc] | heading overlap 1.00 with ppc-52 (warning >= 0.35); generic heading '"Good faith"' in ppc-52
+- [mcq_final.json] mq031 [define/ppc] | heading overlap 1.00 with ppc-26 (warning >= 0.35)
+- [mcq_final.json] mq030 [define/ppc] | heading overlap 1.00 with ppc-365A (warning >= 0.35)
+- [mcq_final.json] mq036 [define/ppc] | heading overlap 1.00 with ppc-252 (warning >= 0.35)
+- [mcq_final.json] mq040 [define/ppc] | heading overlap 1.00 with ppc-489B (warning >= 0.35)
+- [mcq_final.json] mq039 [define/ppc] | heading overlap 1.00 with ppc-140 (warning >= 0.35)
+- [mcq_final.json] mq029 [lookup/ppc] | generic heading 'Sedition' in ppc-124A
+- [mcq_dev.json] mq011 [define/constitution] | heading overlap 1.00 with constitution-94 (warning >= 0.35)
+- [mcq_dev.json] mq012 [define/constitution] | heading overlap 1.00 with constitution-163 (warning >= 0.35)
+- [mcq_dev.json] mq020 [define/constitution] | heading overlap 1.00 with constitution-97 (warning >= 0.35)
+- [mcq_dev.json] mq014 [define/constitution] | heading overlap 1.00 with constitution-150 (warning >= 0.35)
+- [mcq_dev.json] mq060 [define/peca] | heading overlap 1.00 with peca-23 (warning >= 0.35); generic heading 'Malicious code' in peca-23
+- [mcq_dev.json] mq052 [define/peca] | heading overlap 1.00 with peca-2R (warning >= 0.35)
+- [mcq_dev.json] mq053 [define/peca] | heading overlap 1.00 with peca-2G (warning >= 0.35)
+- [mcq_dev.json] mq046 [lookup/peca] | generic heading 'Child pornography' in peca-22
+- [mcq_dev.json] mq035 [define/ppc] | heading overlap 1.00 with ppc-265 (warning >= 0.35)
+- [mcq_dev.json] mq032 [define/ppc] | heading overlap 1.00 with ppc-246 (warning >= 0.35)
+- [mcq_dev.json] mq033 [define/ppc] | heading overlap 1.00 with ppc-78 (warning >= 0.35)
+- [mcq_dev.json] mq038 [define/ppc] | heading overlap 1.00 with ppc-98 (warning >= 0.35)
+- [mcq_dev.json] mq024 [lookup/ppc] | generic heading '"Document"' in ppc-29
+
+STRONG OUT-OF-SCOPE OVERLAP MATCHES:
+- [out_of_scope.json] oos001 | best_score=0.67 | question=What does Section 999 of the Pakistan Penal Code say?
+    peca-2 [peca] score=0.67: Definitions
+    peca-2J [peca] score=0.67: Officers, etc. deemed to be public servants
+    peca-50 [peca] score=0.67: Relation of the Act with other laws
+- [out_of_scope.json] oos002 | best_score=0.67 | question=What is the punishment under Section 651 of the Pakistan Penal Code?
+    peca-2 [peca] score=0.67: Definitions
+    peca-2J [peca] score=0.67: Officers, etc. deemed to be public servants
+    peca-50 [peca] score=0.67: Relation of the Act with other laws
+- [out_of_scope.json] oos003 | best_score=0.60 | question=Explain Article 400 of the Constitution of Pakistan.
+    constitution-12 [constitution] score=0.60: Protection against retrospective punishment
+    constitution-127 [constitution] score=0.60: Provisions relating to National Assembly, etc., to apply to Provincial Assembly, etc. Ordinances
+    constitution-159 [constitution] score=0.60: Broadcasting and telecasting
+- [out_of_scope.json] oos004 | best_score=0.80 | question=What does Article 580 of the Constitution of Pakistan guarantee?
+    constitution-260 [constitution] score=0.80: Definitions
+    constitution-12 [constitution] score=0.60: Protection against retrospective punishment
+    constitution-127 [constitution] score=0.60: Provisions relating to National Assembly, etc., to apply to Provincial Assembly, etc. Ordinances
+- [out_of_scope.json] oos005 | best_score=0.40 | question=What does Section 95 of PECA 2016 provide?
+    peca-25 [peca] score=0.40: Spamming
+    peca-31 [peca] score=0.40: Expedited preservation and acquisition of data
+    peca-32 [peca] score=0.40: Retention of traffic data
+- [out_of_scope.json] oos006 | best_score=0.86 | question=What is the punishment for theft under Section 379 of the Indian Penal Code?
+    ppc-111 [ppc] score=0.86: Liability of abettor when one act abetted and different act done Proviso
+    ppc-153A [ppc] score=0.57: Promoting enmity between different groups, etc
+    ppc-45 [ppc] score=0.57: "Life"
+- [out_of_scope.json] oos007 | best_score=0.60 | question=What does the First Amendment of the US Constitution protect?
+    constitution-175A [constitution] score=0.60: Appointment of Judges to the Federal Constitutional Court, the Supreme Court, High Courts and the Federal Shariat Court
+    constitution-219 [constitution] score=0.60: Duties of Commission
+    constitution-270AA [constitution] score=0.60: Declaration and continuance of laws etc
+- [out_of_scope.json] oos008 | best_score=0.33 | question=What is the mandatory minimum sentence for murder under English law?
+    constitution-203DD [constitution] score=0.33: Revisional and other jurisdiction of the Court
+    constitution-212 [constitution] score=0.33: Administrative Courts and Tribunals
+    constitution-251 [constitution] score=0.33: National language
+- [out_of_scope.json] oos009 | best_score=0.50 | question=Explain the right to erasure under Article 17 of the GDPR.
+    constitution-233 [constitution] score=0.50: Power to suspend Fundamental Rights, etc., during emergency period
+    constitution-10 [constitution] score=0.33: Safeguards as to arrest and detention
+    constitution-111 [constitution] score=0.33: Right to speak in Provincial Assembly
+- [out_of_scope.json] oos010 | best_score=0.43 | question=What does Section 7 of the Canadian Charter of Rights and Freedoms guarantee?
+    peca-29 [peca] score=0.43: Investigation agency
+    peca-2V [peca] score=0.43: Tribunals
+    constitution-233 [constitution] score=0.29: Power to suspend Fundamental Rights, etc., during emergency period
+- [out_of_scope.json] oos011 | best_score=0.50 | question=What is the procedure for incorporating a company under the Companies Act, 2017?
+    constitution-63 [constitution] score=0.50: Disqualifications for membership of Majlis-e-Shoora (Parliament)
+    constitution-73 [constitution] score=0.50: Procedure with respect to Money Bills
+    ppc-499 [ppc] score=0.50: Defamation
+- [out_of_scope.json] oos012 | best_score=0.67 | question=What are the income tax slabs for salaried individuals in Pakistan?
+    constitution-260 [constitution] score=0.67: Definitions
+    constitution-38 [constitution] score=0.50: Promotion of social and economic well-being of the people
+    constitution-151 [constitution] score=0.33: Inter-Provincial trade
+- [out_of_scope.json] oos013 | best_score=0.50 | question=What does the Code of Criminal Procedure say about the time limit for filing an appeal?
+    peca-2 [peca] score=0.50: Definitions
+    peca-50 [peca] score=0.50: Relation of the Act with other laws
+    ppc-174 [ppc] score=0.50: Non-attendance in obedience to an order from public servant
+- [out_of_scope.json] oos014 | best_score=0.50 | question=What is the capital of France?
+    constitution-1 [constitution] score=0.50: The Republic and its territories
+    constitution-121 [constitution] score=0.50: Expenditure charged upon Provincial Consolidated Fund
+    constitution-155 [constitution] score=0.50: Complaints as to interference with water supplies
+- [out_of_scope.json] oos018 | best_score=0.40 | question=What is the recommended treatment for type 2 diabetes?
+    peca-2 [peca] score=0.40: Definitions
+    peca-39 [peca] score=0.40: Real-time collection and recording of information
+    ppc-337Y [ppc] score=0.40: Value of daman 337Z Disbursement of arsh or daman

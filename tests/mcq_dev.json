@@ -1,0 +1,302 @@
+[
+ {
+  "id": "mq011",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Prime Minister continuing in office\"?",
+  "options": {
+   "A": "Article 92",
+   "B": "Article 94",
+   "C": "Article 93",
+   "D": "Article 101"
+  },
+  "answer": "B",
+  "source_id": "constitution-94",
+  "split": "dev"
+ },
+ {
+  "id": "mq012",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Provincial taxes in respect of professions, etc. Miscellaneous Financial Provisions\"?",
+  "options": {
+   "A": "Article 165",
+   "B": "Article 163",
+   "C": "Article 167",
+   "D": "Article 158"
+  },
+  "answer": "B",
+  "source_id": "constitution-163",
+  "split": "dev"
+ },
+ {
+  "id": "mq020",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Extent of executive authority of Federation\"?",
+  "options": {
+   "A": "Article 101",
+   "B": "Article 105",
+   "C": "Article 95",
+   "D": "Article 97"
+  },
+  "answer": "D",
+  "source_id": "constitution-97",
+  "split": "dev"
+ },
+ {
+  "id": "mq014",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Full faith and credit for public acts, etc\"?",
+  "options": {
+   "A": "Article 142",
+   "B": "Article 144",
+   "C": "Article 158",
+   "D": "Article 150"
+  },
+  "answer": "D",
+  "source_id": "constitution-150",
+  "split": "dev"
+ },
+ {
+  "id": "mq002",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 215 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Constitutional Benches of High Courts",
+   "B": "Term of office of Commissioner [and members]",
+   "C": "Right to fair trial",
+   "D": "Provisions of Chapter to override other provisions of Constitution"
+  },
+  "answer": "B",
+  "source_id": "constitution-215",
+  "split": "dev"
+ },
+ {
+  "id": "mq007",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 192 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Power of the Provinces to entrust functions to the Federation",
+   "B": "Constitution of High Court",
+   "C": "Oath of Office of the Chief Justice and other Judges of the Federal Constitutional Court",
+   "D": "Federal Government’s consent required for financial measures"
+  },
+  "answer": "B",
+  "source_id": "constitution-192",
+  "split": "dev"
+ },
+ {
+  "id": "mq008",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 17 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Address by President",
+   "B": "Full participation of women in national life",
+   "C": "Freedom of association",
+   "D": "Review of judgments or orders by the Supreme Court"
+  },
+  "answer": "C",
+  "source_id": "constitution-17",
+  "split": "dev"
+ },
+ {
+  "id": "mq060",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Malicious code\"?",
+  "options": {
+   "A": "Section 23",
+   "B": "Section 28",
+   "C": "Section 22",
+   "D": "Section 24"
+  },
+  "answer": "A",
+  "source_id": "peca-23",
+  "split": "dev"
+ },
+ {
+  "id": "mq052",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Unlawful or offensive online content\"?",
+  "options": {
+   "A": "Section 2R",
+   "B": "Section 4",
+   "C": "Section 3",
+   "D": "Section 2N"
+  },
+  "answer": "A",
+  "source_id": "peca-2R",
+  "split": "dev"
+ },
+ {
+  "id": "mq053",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Powers and functions of the Chairperson\"?",
+  "options": {
+   "A": "Section 2G",
+   "B": "Section 2N",
+   "C": "Section 2E",
+   "D": "Section 2"
+  },
+  "answer": "A",
+  "source_id": "peca-2G",
+  "split": "dev"
+ },
+ {
+  "id": "mq044",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 15 of the PECA 2016?",
+  "options": {
+   "A": "Making, obtaining, or supplying device for use in offence",
+   "B": "Forensic laboratory",
+   "C": "Commercial sexual exploitation of children",
+   "D": "Investigation agency"
+  },
+  "answer": "A",
+  "source_id": "peca-15",
+  "split": "dev"
+ },
+ {
+  "id": "mq046",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 22 of the PECA 2016?",
+  "options": {
+   "A": "Child pornography",
+   "B": "Investigation into the child sexual content referred to Pakistan Telecommunication Author…",
+   "C": "Report to Parliament",
+   "D": "International cooperation"
+  },
+  "answer": "A",
+  "source_id": "peca-22",
+  "split": "dev"
+ },
+ {
+  "id": "mq041",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 41 of the PECA 2016?",
+  "options": {
+   "A": "Report to Parliament",
+   "B": "Unauthorized interception",
+   "C": "Confidentiality of information",
+   "D": "Complaint against cybercrimes against children"
+  },
+  "answer": "C",
+  "source_id": "peca-41",
+  "split": "dev"
+ },
+ {
+  "id": "mq035",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Fraudulent use of false weight or measure\"?",
+  "options": {
+   "A": "Section 267",
+   "B": "Section 259",
+   "C": "Section 265",
+   "D": "Section 261"
+  },
+  "answer": "C",
+  "source_id": "ppc-265",
+  "split": "dev"
+ },
+ {
+  "id": "mq032",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Fraudulently or dishonestly diminishing weight or altering composition of coin\"?",
+  "options": {
+   "A": "Section 248",
+   "B": "Section 244",
+   "C": "Section 246",
+   "D": "Section 245"
+  },
+  "answer": "C",
+  "source_id": "ppc-246",
+  "split": "dev"
+ },
+ {
+  "id": "mq033",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Act done pursuant to the judgment or order of Court\"?",
+  "options": {
+   "A": "Section 79",
+   "B": "Section 83",
+   "C": "Section 78",
+   "D": "Section 84"
+  },
+  "answer": "C",
+  "source_id": "ppc-78",
+  "split": "dev"
+ },
+ {
+  "id": "mq038",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Right of private defence against the act of a person of unsound mind, etc\"?",
+  "options": {
+   "A": "Section 105",
+   "B": "Section 102",
+   "C": "Section 101",
+   "D": "Section 98"
+  },
+  "answer": "D",
+  "source_id": "ppc-98",
+  "split": "dev"
+ },
+ {
+  "id": "mq024",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 29 of the Pakistan Penal Code?",
+  "options": {
+   "A": "Public servant obtaining valuable thing, without consideration from person concerned in p…",
+   "B": "Misuse of epithets, descriptions and titles, etc., reserved for certain holy personages o…",
+   "C": "Accident in doing a lawful act",
+   "D": "\"Document\""
+  },
+  "answer": "D",
+  "source_id": "ppc-29",
+  "split": "dev"
+ },
+ {
+  "id": "mq026",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 75 of the Pakistan Penal Code?",
+  "options": {
+   "A": "Wrongful restraint",
+   "B": "Criminal breach of trust by clerk or servant",
+   "C": "Issuing or signing false certificate",
+   "D": "Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous…"
+  },
+  "answer": "D",
+  "source_id": "ppc-75",
+  "split": "dev"
+ },
+ {
+  "id": "mq023",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 122 of the Pakistan Penal Code?",
+  "options": {
+   "A": "Kidnapping or abducting in order to subject person to unnatural lust",
+   "B": "Collecting arms, etc., with intention of waging war against Pakistan",
+   "C": "Altering appearance of Pakistan coin with intent that it shall pass as coin of different…",
+   "D": "Punishment of criminal conspiracy"
+  },
+  "answer": "B",
+  "source_id": "ppc-122",
+  "split": "dev"
+ }
+]

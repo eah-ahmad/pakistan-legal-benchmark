@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+
+# Raw Large PDFs (keep repo lightweight, text files in raw/ are preserved)
+*.pdf
+
+# Scratch, temporary and logs
+scratch/
+*.log
+chunk_diagnostics.txt
+
+# OS / Editor specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

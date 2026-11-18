@@ -1,0 +1,212 @@
+[
+ {
+  "id": "rq001",
+  "question": "What does Pakistani law provide regarding: Review of judgements or orders by the Federal Constitutional Court?",
+  "source_id": "constitution-175G",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq002",
+  "question": "What does Pakistani law provide regarding: Pending proceedings to continue, etc?",
+  "source_id": "constitution-203H",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq003",
+  "question": "What does Pakistani law provide regarding: Safeguards as to arrest and detention?",
+  "source_id": "constitution-10",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq004",
+  "question": "What does Pakistani law provide regarding: Power of Majlis-e-Shoora (Parliament) to impose tax on the income of certain corporations, etc?",
+  "source_id": "constitution-165A",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq005",
+  "question": "What does Pakistani law provide regarding: General Elections 2008?",
+  "source_id": "constitution-270BB",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq006",
+  "question": "What does Pakistani law provide regarding: Loyalty to State and obedience to Constitution and law?",
+  "source_id": "constitution-5",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq007",
+  "question": "What does Pakistani law provide regarding: Supplementary and excess grants?",
+  "source_id": "constitution-84",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq008",
+  "question": "What does Pakistani law provide regarding: Existing rules, etc., to continue?",
+  "source_id": "constitution-241",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq009",
+  "question": "What does Pakistani law provide regarding: Appointment of Judges to the Federal Constitutional Court, the Supreme Court, High Courts and the Federal Shariat Court?",
+  "source_id": "constitution-175A",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq010",
+  "question": "What does Pakistani law provide regarding: Tribal Areas?",
+  "source_id": "constitution-246",
+  "law": "constitution",
+  "split": "test"
+ },
+ {
+  "id": "rq011",
+  "question": "What does Pakistani law provide regarding: Mischief causing damage to the amount of fifty rupees?",
+  "source_id": "ppc-427",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq012",
+  "question": "What does Pakistani law provide regarding: Mischief by injury to works of irrigation or by wrongfully diverting water?",
+  "source_id": "ppc-430",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq013",
+  "question": "What does Pakistani law provide regarding: Punishment for abetment of offences defined in sections 161 and 165?",
+  "source_id": "ppc-165A",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq014",
+  "question": "What does Pakistani law provide regarding: Trespassing on burial places, etc?",
+  "source_id": "ppc-297",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq015",
+  "question": "What does Pakistani law provide regarding: Commutation of sentence of imprisonment for life?",
+  "source_id": "ppc-55",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq016",
+  "question": "What does Pakistani law provide regarding: Sale, etc., of obscene books, etc?",
+  "source_id": "ppc-292",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq017",
+  "question": "What does Pakistani law provide regarding: Punishment for belonging to gang of thieves?",
+  "source_id": "ppc-401",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq018",
+  "question": "What does Pakistani law provide regarding: Interference, improper use or tampering with electric meter by domestic consumer, etc?",
+  "source_id": "ppc-462J",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq019",
+  "question": "What does Pakistani law provide regarding: Liability of abettor when one act abetted and different act done Proviso?",
+  "source_id": "ppc-111",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq020",
+  "question": "What does Pakistani law provide regarding: Wrongful confinement to extort property or constrain to illegal act?",
+  "source_id": "ppc-347",
+  "law": "ppc",
+  "split": "test"
+ },
+ {
+  "id": "rq021",
+  "question": "What does Pakistani law provide regarding: Real-time collection and recording of information?",
+  "source_id": "peca-39",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq022",
+  "question": "What does Pakistani law provide regarding: Hate speech?",
+  "source_id": "peca-11",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq023",
+  "question": "What does Pakistani law provide regarding: Definitions?",
+  "source_id": "peca-2",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq024",
+  "question": "What does Pakistani law provide regarding: Tribunals?",
+  "source_id": "peca-2V",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq025",
+  "question": "What does Pakistani law provide regarding: Unlawful on-line content?",
+  "source_id": "peca-37",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq026",
+  "question": "What does Pakistani law provide regarding: Forensic laboratory?",
+  "source_id": "peca-40",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq027",
+  "question": "What does Pakistani law provide regarding: Handling of complaints by social media platforms?",
+  "source_id": "peca-2S",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq028",
+  "question": "What does Pakistani law provide regarding: Powers and functions of the Authority?",
+  "source_id": "peca-2B",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq029",
+  "question": "What does Pakistani law provide regarding: Appeal against decisions of the Tribunal?",
+  "source_id": "peca-2X",
+  "law": "peca",
+  "split": "test"
+ },
+ {
+  "id": "rq030",
+  "question": "What does Pakistani law provide regarding: Jurisdiction of the Tribunal?",
+  "source_id": "peca-2W",
+  "law": "peca",
+  "split": "test"
+ }
+]

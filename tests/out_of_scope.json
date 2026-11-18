@@ -1,0 +1,110 @@
+[
+ {
+  "id": "oos001",
+  "question": "What does Section 999 of the Pakistan Penal Code say?",
+  "category": "fake_number",
+  "split": "test"
+ },
+ {
+  "id": "oos002",
+  "question": "What is the punishment under Section 651 of the Pakistan Penal Code?",
+  "category": "fake_number",
+  "split": "test"
+ },
+ {
+  "id": "oos003",
+  "question": "Explain Article 400 of the Constitution of Pakistan.",
+  "category": "fake_number",
+  "split": "test"
+ },
+ {
+  "id": "oos004",
+  "question": "What does Article 580 of the Constitution of Pakistan guarantee?",
+  "category": "fake_number",
+  "split": "test"
+ },
+ {
+  "id": "oos005",
+  "question": "What does Section 95 of PECA 2016 provide?",
+  "category": "fake_number",
+  "split": "test"
+ },
+ {
+  "id": "oos006",
+  "question": "What is the punishment for theft under Section 379 of the Indian Penal Code?",
+  "category": "other_country",
+  "split": "test"
+ },
+ {
+  "id": "oos007",
+  "question": "What does the First Amendment of the US Constitution protect?",
+  "category": "other_country",
+  "split": "test"
+ },
+ {
+  "id": "oos008",
+  "question": "What is the mandatory minimum sentence for murder under English law?",
+  "category": "other_country",
+  "split": "test"
+ },
+ {
+  "id": "oos009",
+  "question": "Explain the right to erasure under Article 17 of the GDPR.",
+  "category": "other_country",
+  "split": "test"
+ },
+ {
+  "id": "oos010",
+  "question": "What does Section 7 of the Canadian Charter of Rights and Freedoms guarantee?",
+  "category": "other_country",
+  "split": "test"
+ },
+ {
+  "id": "oos011",
+  "question": "What is the procedure for incorporating a company under the Companies Act, 2017?",
+  "category": "other_pk_law",
+  "split": "test"
+ },
+ {
+  "id": "oos012",
+  "question": "What are the income tax slabs for salaried individuals in Pakistan?",
+  "category": "other_pk_law",
+  "split": "test"
+ },
+ {
+  "id": "oos013",
+  "question": "What does the Code of Criminal Procedure say about the time limit for filing an appeal?",
+  "category": "other_pk_law",
+  "split": "test"
+ },
+ {
+  "id": "oos014",
+  "question": "What is the capital of France?",
+  "category": "unrelated",
+  "split": "test"
+ },
+ {
+  "id": "oos015",
+  "question": "Write a Python function that reverses a string.",
+  "category": "unrelated",
+  "split": "test"
+ },
+ {
+  "id": "oos016",
+  "question": "How do I cook chicken biryani?",
+  "category": "unrelated",
+  "split": "test"
+ },
+ {
+  "id": "oos017",
+  "question": "Who won the 2022 FIFA World Cup?",
+  "category": "unrelated",
+  "split": "test"
+ },
+ {
+  "id": "oos018",
+  "question": "What is the recommended treatment for type 2 diabetes?",
+  "category": "unrelated",
+  "split": "test"
+ }
+]

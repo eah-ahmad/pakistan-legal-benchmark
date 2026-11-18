@@ -1,0 +1,602 @@
+[
+ {
+  "id": "mq017",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Oath of Office\"?",
+  "options": {
+   "A": "Article 194",
+   "B": "Article 187",
+   "C": "Article 199",
+   "D": "Article 190"
+  },
+  "answer": "A",
+  "source_id": "constitution-194",
+  "split": "final"
+ },
+ {
+  "id": "mq016",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Equality of citizens\"?",
+  "options": {
+   "A": "Article 23",
+   "B": "Article 18",
+   "C": "Article 19",
+   "D": "Article 25"
+  },
+  "answer": "D",
+  "source_id": "constitution-25",
+  "split": "final"
+ },
+ {
+  "id": "mq018",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Votes on account\"?",
+  "options": {
+   "A": "Article 121",
+   "B": "Article 117",
+   "C": "Article 125",
+   "D": "Article 122"
+  },
+  "answer": "C",
+  "source_id": "constitution-125",
+  "split": "final"
+ },
+ {
+  "id": "mq013",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Appellate jurisdiction of the Supreme Court\"?",
+  "options": {
+   "A": "Article 177",
+   "B": "Article 194",
+   "C": "Article 176",
+   "D": "Article 185"
+  },
+  "answer": "D",
+  "source_id": "constitution-185",
+  "split": "final"
+ },
+ {
+  "id": "mq010",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Federal Ministers and Ministers of State\"?",
+  "options": {
+   "A": "Article 88",
+   "B": "Article 87",
+   "C": "Article 92",
+   "D": "Article 89"
+  },
+  "answer": "C",
+  "source_id": "constitution-92",
+  "split": "final"
+ },
+ {
+  "id": "mq019",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"National Assembly\"?",
+  "options": {
+   "A": "Article 59",
+   "B": "Article 55",
+   "C": "Article 53",
+   "D": "Article 51"
+  },
+  "answer": "D",
+  "source_id": "constitution-51",
+  "split": "final"
+ },
+ {
+  "id": "mq015",
+  "type": "define",
+  "law": "constitution",
+  "question": "Which article of the Constitution of Pakistan deals with \"Power to acquire property and to make contracts, etc\"?",
+  "options": {
+   "A": "Article 175E",
+   "B": "Article 171",
+   "C": "Article 175D",
+   "D": "Article 173"
+  },
+  "answer": "D",
+  "source_id": "constitution-173",
+  "split": "final"
+ },
+ {
+  "id": "mq005",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 63A of the Constitution of Pakistan?",
+  "options": {
+   "A": "Acting Commissioner",
+   "B": "Supplementary and excess grants",
+   "C": "Privileges of members, etc. Procedure Generally",
+   "D": "Disqualification on grounds of defection, etc"
+  },
+  "answer": "D",
+  "source_id": "constitution-63A",
+  "split": "final"
+ },
+ {
+  "id": "mq001",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 212 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Administrative Courts and Tribunals",
+   "B": "Broadcasting and telecasting",
+   "C": "Right to education",
+   "D": "Provisions of Chapter to override other provisions of Constitution"
+  },
+  "answer": "A",
+  "source_id": "constitution-212",
+  "split": "final"
+ },
+ {
+  "id": "mq009",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 91 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Reference by Majlis-e-Shoora (Parliament), etc., to Islamic Council",
+   "B": "Disqualification on grounds of defection, etc",
+   "C": "The Cabinet",
+   "D": "Safeguards as to educational institutions in respect of religion, etc"
+  },
+  "answer": "C",
+  "source_id": "constitution-91",
+  "split": "final"
+ },
+ {
+  "id": "mq004",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 211 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Bar of jurisdiction",
+   "B": "Revisional and other jurisdiction of the Court",
+   "C": "Dissolution of the National Assembly",
+   "D": "President to be kept informed"
+  },
+  "answer": "A",
+  "source_id": "constitution-211",
+  "split": "final"
+ },
+ {
+  "id": "mq003",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 132 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Jurisdiction of High Court",
+   "B": "Governor to act on advice, etc",
+   "C": "Constitution of High Court",
+   "D": "Provincial Ministers"
+  },
+  "answer": "D",
+  "source_id": "constitution-132",
+  "split": "final"
+ },
+ {
+  "id": "mq006",
+  "type": "lookup",
+  "law": "constitution",
+  "question": "What is the subject (heading) of Article 189 of the Constitution of Pakistan?",
+  "options": {
+   "A": "Retiring age",
+   "B": "Decisions of Federal Constitutional Court and Supreme Court binding on other courts",
+   "C": "First constitution of Senate",
+   "D": "President’s power to grant pardon, etc"
+  },
+  "answer": "B",
+  "source_id": "constitution-189",
+  "split": "final"
+ },
+ {
+  "id": "mq057",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Unauthorized access to critical infrastructure information system or data\"?",
+  "options": {
+   "A": "Section 7",
+   "B": "Section 2W",
+   "C": "Section 6",
+   "D": "Section 3"
+  },
+  "answer": "C",
+  "source_id": "peca-6",
+  "split": "final"
+ },
+ {
+  "id": "mq056",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Interference with information system or data\"?",
+  "options": {
+   "A": "Section 13",
+   "B": "Section 2U",
+   "C": "Section 5",
+   "D": "Section 6"
+  },
+  "answer": "C",
+  "source_id": "peca-5",
+  "split": "final"
+ },
+ {
+  "id": "mq050",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Use of information system for kidnapping, abduction or trafficking of minor\"?",
+  "options": {
+   "A": "Section 22B",
+   "B": "Section 19",
+   "C": "Section 22C",
+   "D": "Section 22"
+  },
+  "answer": "C",
+  "source_id": "peca-22C",
+  "split": "final"
+ },
+ {
+  "id": "mq054",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Investigation agency\"?",
+  "options": {
+   "A": "Section 28",
+   "B": "Section 25",
+   "C": "Section 31",
+   "D": "Section 29"
+  },
+  "answer": "D",
+  "source_id": "peca-29",
+  "split": "final"
+ },
+ {
+  "id": "mq059",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Power of the Federal Government to Issue directives\"?",
+  "options": {
+   "A": "Section 2T",
+   "B": "Section 2O",
+   "C": "Section 2F",
+   "D": "Section 2M"
+  },
+  "answer": "B",
+  "source_id": "peca-2O",
+  "split": "final"
+ },
+ {
+  "id": "mq058",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Composition of the Authority\"?",
+  "options": {
+   "A": "Section 2A",
+   "B": "Section 2M",
+   "C": "Section 2C",
+   "D": "Section 2D"
+  },
+  "answer": "D",
+  "source_id": "peca-2D",
+  "split": "final"
+ },
+ {
+  "id": "mq051",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Savings of powers\"?",
+  "options": {
+   "A": "Section 49",
+   "B": "Section 55",
+   "C": "Section 50A",
+   "D": "Section 54"
+  },
+  "answer": "B",
+  "source_id": "peca-55",
+  "split": "final"
+ },
+ {
+  "id": "mq055",
+  "type": "define",
+  "law": "peca",
+  "question": "Which section of the PECA 2016 deals with \"Cyber stalking\"?",
+  "options": {
+   "A": "Section 26A",
+   "B": "Section 28",
+   "C": "Section 20",
+   "D": "Section 24"
+  },
+  "answer": "D",
+  "source_id": "peca-24",
+  "split": "final"
+ },
+ {
+  "id": "mq048",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 2H of the PECA 2016?",
+  "options": {
+   "A": "Violation or non-implementation",
+   "B": "Transitory",
+   "C": "Chairperson and members not to engage themselves in certain business, etc",
+   "D": "Glorification of an offence"
+  },
+  "answer": "C",
+  "source_id": "peca-2H",
+  "split": "final"
+ },
+ {
+  "id": "mq047",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 49 of the PECA 2016?",
+  "options": {
+   "A": "Hate speech",
+   "B": "Enlistment",
+   "C": "Computer emergency response teams",
+   "D": "Definitions"
+  },
+  "answer": "C",
+  "source_id": "peca-49",
+  "split": "final"
+ },
+ {
+  "id": "mq049",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 26 of the PECA 2016?",
+  "options": {
+   "A": "Relation of the Act with other laws",
+   "B": "Indemnity",
+   "C": "Unlawful or offensive online content",
+   "D": "Spoofing"
+  },
+  "answer": "D",
+  "source_id": "peca-26",
+  "split": "final"
+ },
+ {
+  "id": "mq045",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 2C of the PECA 2016?",
+  "options": {
+   "A": "Relation of the Act with other laws",
+   "B": "Glorification of an offence",
+   "C": "Complaint to the Authority on fake information",
+   "D": "Electronic forgery"
+  },
+  "answer": "C",
+  "source_id": "peca-2C",
+  "split": "final"
+ },
+ {
+  "id": "mq042",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 28 of the PECA 2016?",
+  "options": {
+   "A": "Computer emergency response teams",
+   "B": "Offences against modesty of a natural person and minor",
+   "C": "Violation or non-implementation",
+   "D": "Pakistan Penal Code, 1860 (Act XLV of 1860) to apply"
+  },
+  "answer": "D",
+  "source_id": "peca-28",
+  "split": "final"
+ },
+ {
+  "id": "mq043",
+  "type": "lookup",
+  "law": "peca",
+  "question": "What is the subject (heading) of Section 2N of the PECA 2016?",
+  "options": {
+   "A": "Real-time collection and recording of information",
+   "B": "Social Media Complaint Council",
+   "C": "Unauthorized access to critical infrastructure information system or data",
+   "D": "Annual report"
+  },
+  "answer": "D",
+  "source_id": "peca-2N",
+  "split": "final"
+ },
+ {
+  "id": "mq034",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Wrongful confinement for ten or more days\"?",
+  "options": {
+   "A": "Section 348",
+   "B": "Section 344",
+   "C": "Section 354",
+   "D": "Section 338F"
+  },
+  "answer": "B",
+  "source_id": "ppc-344",
+  "split": "final"
+ },
+ {
+  "id": "mq037",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"\"Good faith\"\"?",
+  "options": {
+   "A": "Section 55A",
+   "B": "Section 52",
+   "C": "Section 55",
+   "D": "Section 54"
+  },
+  "answer": "B",
+  "source_id": "ppc-52",
+  "split": "final"
+ },
+ {
+  "id": "mq031",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"\"Reason to believe\"\"?",
+  "options": {
+   "A": "Section 24",
+   "B": "Section 26",
+   "C": "Section 21",
+   "D": "Section 33"
+  },
+  "answer": "B",
+  "source_id": "ppc-26",
+  "split": "final"
+ },
+ {
+  "id": "mq030",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Kidnapping or abducting for extorting property, valuable security, etc\"?",
+  "options": {
+   "A": "Section 364A",
+   "B": "Section 365A",
+   "C": "Section 367",
+   "D": "Section 370"
+  },
+  "answer": "B",
+  "source_id": "ppc-365A",
+  "split": "final"
+ },
+ {
+  "id": "mq036",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Possession of coin by person who knew it to be altered when he became possessed thereof\"?",
+  "options": {
+   "A": "Section 254",
+   "B": "Section 252",
+   "C": "Section 249",
+   "D": "Section 250"
+  },
+  "answer": "B",
+  "source_id": "ppc-252",
+  "split": "final"
+ },
+ {
+  "id": "mq040",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Using as genuine, forged or counterfeit currency-notes or bank-notes\"?",
+  "options": {
+   "A": "Section 487",
+   "B": "Section 489B",
+   "C": "Section 489C",
+   "D": "Section 484"
+  },
+  "answer": "B",
+  "source_id": "ppc-489B",
+  "split": "final"
+ },
+ {
+  "id": "mq039",
+  "type": "define",
+  "law": "ppc",
+  "question": "Which section of the Pakistan Penal Code deals with \"Wearing garb or carrying token used by soldier, sailor or airman\"?",
+  "options": {
+   "A": "Section 138",
+   "B": "Section 140",
+   "C": "Section 132",
+   "D": "Section 133"
+  },
+  "answer": "B",
+  "source_id": "ppc-140",
+  "split": "final"
+ },
+ {
+  "id": "mq029",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 124A of the Pakistan Penal Code?",
+  "options": {
+   "A": "Penalty for harbouring robbers or dacoits",
+   "B": "Sedition",
+   "C": "Obstructing public servant in discharge of public functions",
+   "D": "Negligent conduct with respect to fire or combustible matter"
+  },
+  "answer": "B",
+  "source_id": "ppc-124A",
+  "split": "final"
+ },
+ {
+  "id": "mq028",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 366A of the Pakistan Penal Code?",
+  "options": {
+   "A": "When such right extends to causing any harm other than death",
+   "B": "Illegal Purchase or bid for property offered for sale by authority of public servant",
+   "C": "Fraudulent claim to property to prevent its seizure as forfeited or in execution",
+   "D": "Procuration of minor girl"
+  },
+  "answer": "D",
+  "source_id": "ppc-366A",
+  "split": "final"
+ },
+ {
+  "id": "mq025",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 337X of the Pakistan Penal Code?",
+  "options": {
+   "A": "Cheating by personation",
+   "B": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable oth…",
+   "C": "Punishment for committing affray",
+   "D": "Payment of arsh"
+  },
+  "answer": "D",
+  "source_id": "ppc-337X",
+  "split": "final"
+ },
+ {
+  "id": "mq021",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 337T of the Pakistan Penal Code?",
+  "options": {
+   "A": "Act done by a person justified, or by mistake of fact believing himself justified, by law",
+   "B": "Arsh for fingers",
+   "C": "Counterfeiting device or mark used for authenticating documents described in section 467,…",
+   "D": "Intentional omission to apprehend on the part of public servant bound to apprehend"
+  },
+  "answer": "B",
+  "source_id": "ppc-337T",
+  "split": "final"
+ },
+ {
+  "id": "mq027",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 240 of the Pakistan Penal Code?",
+  "options": {
+   "A": "Harbouring persons hired for an unlawful assembly",
+   "B": "Delivery of Pakistan coin possessed with knowledge that it is counterfeit",
+   "C": "Giving false evidence",
+   "D": "Negligent conduct with respect to pulling down or repairing buildings"
+  },
+  "answer": "B",
+  "source_id": "ppc-240",
+  "split": "final"
+ },
+ {
+  "id": "mq022",
+  "type": "lookup",
+  "law": "ppc",
+  "question": "What is the subject (heading) of Section 338E of the Pakistan Penal Code?",
+  "options": {
+   "A": "Harbouring offender__ if a capital offence; if punishable with imprisonment for life, or…",
+   "B": "Waiver or compounding of offences",
+   "C": "Making or selling false weight or measure",
+   "D": "Wrongful confinement for ten or more days"
+  },
+  "answer": "B",
+  "source_id": "ppc-338E",
+  "split": "final"
+ }
+]
